@@ -1,0 +1,8 @@
+/Data/
+/Equipos.hbm.xml
+/Estado.hbm.xml
+/Reparaciones.hbm.xml
+/Rol.hbm.xml
+/Usuario.hbm.xml
+/db/
+/hibernate.cfg.xml
